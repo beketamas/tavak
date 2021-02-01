@@ -7,7 +7,6 @@ border-color: black;
 width: 3cm;
 height: 2cm;
 border-radius: 5px;
-
 }
 tr:first-child {
     background-color: rgba(0, 162, 255, 0.815);
